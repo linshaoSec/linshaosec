@@ -11,8 +11,8 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/linshaosec/linshaosec/contribution-snake/github-contribution-grid-snake.svg" /></div>
-<br>
+<!--<div align="center"><img src="https://cdn.jsdelivr.net/gh/linshaosec/linshaosec/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<br> -->
 
 <!--表格-->
 <div align="center">
@@ -28,9 +28,9 @@
 <br>
 <h1> ContactMe</h1>
 
-| 微信| csdn_id | 微信公众号 |QQ群
+| 微信公众号| csdn_id |微信  |QQ群
 | ------- | ------- | ------- | ------- |
-|  ![image](https://user-images.githubusercontent.com/96420060/189816847-27b4768b-697d-492a-a0ae-4deea4dd4f58.png)  |  **linshao**   |  ![image](https://user-images.githubusercontent.com/96420060/189816789-ea34381b-6f61-4e2b-bc8e-1a076fbbba99.png) |  ![image](https://user-images.githubusercontent.com/96420060/189819018-d997d7f9-e481-4b29-a9db-c925725685a2.png)|
+|  ![image](https://user-images.githubusercontent.com/96420060/189816789-ea34381b-6f61-4e2b-bc8e-1a076fbbba99.png)  |  **linshao**   |![image](https://user-images.githubusercontent.com/96420060/189816847-27b4768b-697d-492a-a0ae-4deea4dd4f58.png)   |  ![image](https://user-images.githubusercontent.com/96420060/189819018-d997d7f9-e481-4b29-a9db-c925725685a2.png)|
 
 
 <br>
