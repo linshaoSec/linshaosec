@@ -2,7 +2,9 @@
 <div align="center">
   <h1>Linshao:低头走路，抬头看天...</h1>
 </div>
+【声明】:linshaosec对发布的所有项目均负责，保证无任何后门，最后祝所有投毒者死🐎！
 
+<br>
 <br>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
